@@ -13,14 +13,14 @@ I'm a Flutter developer and UI/UX designer with a strong focus on crafting scala
 
 ## 🧠 Skills & Tools
 
-- 🧱 **Frameworks & Languages:** Flutter 🐦, Dart 🎯  
-- ⚙️ **State Management:** Bloc 🧠, Cubit 💡, GetX ⚡  
-- 🔌 **API Integration:** HTTP 🌐, Dio 🚀, WooCommerce REST API 🛒  
-- 🧩 **Design Patterns:** MVC 🏗️, MVVM 🧬  
-- 🛠️ **Development Tools:** Git 🧾, GitHub Actions 🤖, Firebase 🔥  
-- 🎨 **UI/UX Design:** Figma 🎨, Adobe XD 🖌️  
-- 🧼 **Best Practices:** Clean Architecture 🧹, Reusable Code ♻️, SDLC 🔄  
-- 🤝 **Soft Skills:** Problem-solving 🧠, Teamwork 🤝, Communication 📢, Prototyping 🧪  
+- **Frameworks & Languages:** Flutter 🐦, Dart 🎯  
+- **State Management:** Bloc 🧠, Cubit 💡, GetX ⚡  
+- **API Integration:** HTTP 🌐, Dio 🚀, WooCommerce REST API 🛒  
+- **Design Patterns:** MVC 🏗️, MVVM 🧬  
+- **Development Tools:** Git 🧾, GitHub Actions 🤖, Firebase 🔥  
+- **UI/UX Design:** Figma 🎨
+- **Best Practices:** Clean Architecture 🧹, Reusable Code ♻️, SDLC 🔄  
+- **Soft Skills:** Problem-solving 🧠, Teamwork 🤝, Communication 📢, Prototyping 🧪  
 
 ---
 
